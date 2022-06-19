@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\edureka_june_batch\core\.metadata\.plugins\org.eclipse.jdt.core
