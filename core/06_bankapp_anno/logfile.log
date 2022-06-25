@@ -1,0 +1,4 @@
+INFO  | 2022-06-25 08:54:10 | [main] controller.HelloLog4j (HelloLog4j.java:13) - code is working till line 7
+ERROR | 2022-06-25 08:54:10 | [main] controller.HelloLog4j (HelloLog4j.java:20) - some error occurredjava.lang.NumberFormatException: For input string: "33A"
+ERROR | 2022-06-25 08:57:05 | [main] controller.HelloLog4j (HelloLog4j.java:20) - some error occurredjava.lang.NumberFormatException: For input string: "33A"
+INFO  | 2022-06-25 09:01:04 | [main] service.AccountServiceImpl (AccountServiceImpl.java:64) - time taken for this transfer method : 1010 ms
