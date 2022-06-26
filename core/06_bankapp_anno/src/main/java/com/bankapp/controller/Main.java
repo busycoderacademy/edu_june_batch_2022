@@ -15,7 +15,7 @@ public class Main {
 		List<Account> accounts=accService.getAll();
 		accounts.forEach(acc-> System.out.println(acc));
 		
-		accService.transfer(1, 2, 1000);
+		accService.transfer(1, 20, 1000);
 		
 		System.out.println("---------------");
 		 accounts=accService.getAll();

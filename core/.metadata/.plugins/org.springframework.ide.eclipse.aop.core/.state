@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="06_bankapp_anno"/>
+<aop-project name="01_spring_core_xml"/>
+<aop-project name="02_spring_core_annotation"/>
+<aop-project name="04_spring_core_bean_anno"/>
+<aop-project name="05_bankapp_xml"/>
+<aop-project name="07_need_aop"/>
+</aop-reference-model>

@@ -1,0 +1,3 @@
+ERROR | 2022-06-26 09:27:48 | [main] util.MyCustomLoggingAspect (MyCustomLoggingAspect.java:20) - error occured in service layertoAcc  is invalid
+ERROR | 2022-06-26 09:36:18 | [main] util.MyCustomLoggingAspect (MyCustomLoggingAspect.java:20) - error occured in service layertoAcc  is invalid
+INFO  | 2022-06-26 09:37:01 | [main] util.MyCustomLoggingAspect (MyCustomLoggingAspect.java:36) - time taken for this transfer method : 1013 ms
